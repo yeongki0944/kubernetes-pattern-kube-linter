@@ -1,0 +1,1 @@
+# kubernetes-pattern-kube-linter
